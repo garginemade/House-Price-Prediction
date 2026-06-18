@@ -61,13 +61,17 @@ The project includes:
 
 ## Repository Structure
 
+```text
+House-Price-Prediction
+│
 ├── analysis.ipynb
 ├── Housing.csv
 ├── summary.pdf
 ├── README.md
-└── charts/
-      ├── price_distribution_histogram.png
-      ├── correlation_heatmap.png
-      ├── furnishing_status_boxplot.png
-      └── actual_predicted_scatter_plot.png
-
+│
+└── charts
+    ├── price_distribution_histogram.png
+    ├── correlation_heatmap.png
+    ├── furnishing_status_boxplot.png
+    └── actual_predicted_scatter_plot.png
+```
